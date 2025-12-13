@@ -1,0 +1,20 @@
+{
+  "name": "vite-vue-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "is-components-new": "^2.0.2",
+    "is323-km-components": "^0.0.18",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "sass-embedded": "^1.93.3",
+    "vite": "^7.1.12"
+  }
+}
