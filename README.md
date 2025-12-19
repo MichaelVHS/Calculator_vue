@@ -12,3 +12,4 @@ pnpm install
 pnpm run dev
 ```
 скачать библиотеку: npm i is323-km-components
+Крылов Михил Ис-323
